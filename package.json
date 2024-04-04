@@ -1,8 +1,8 @@
 {
-	"name": "@rbxts/roblox-ts-package-template",
-	"version": "1.0.0",
+	"name": "@rbxts/task-queue",
+	"version": "1.0.0-ts.0",
 	"main": "dist/init.lua",
-	"keywords": [],
+	"keywords": ["task", "queue", "batch", "once", "defer"],
 	"author": "kineticwallet",
 	"license": "MIT",
 	"types": "dist/index.d.ts",
